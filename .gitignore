@@ -1,0 +1,10 @@
+# Python / Django
+backend/venv/
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Angular / Node
+forntend/**/node_modules/
+forntend/**/.angular/
+forntend/**/dist/
